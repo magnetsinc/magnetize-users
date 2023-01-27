@@ -1,6 +1,6 @@
 name: magnetize-users
 id: 'ari:cloud:compass:7d7a1354-b50b-4f1e-b409-1f3c509aea99:component/910c34fb-0e18-40c8-8568-c31a5cefb046/c1a46fa0-c7f8-4432-98fe-89e7427008ed'
-description: null
+description: User service for login, logout, signup, etc
 ownerId: 'ari:cloud:teams::team/df9335ac-cccf-4f3e-9218-eb7c8fea2115'
 fields:
   tier: 1
